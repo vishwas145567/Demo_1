@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss:css "
+  },
+  "keywords": [
+    "Acation",
+    "page",
+    "delete",
+    "botton"
+  ],
+  "author": "vishwas",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sass": "^1.77.6"
+  }
+}
